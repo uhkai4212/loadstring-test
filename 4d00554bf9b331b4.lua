@@ -1,0 +1,15 @@
+DELTA["55"] = Instance.new("TextLabel", DELTA["53"]);
+DELTA["55"]["TextWrapped"] = true;
+DELTA["55"]["ZIndex"] = 999999999;
+DELTA["55"]["TextScaled"] = true;
+DELTA["55"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["55"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["55"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["55"]["TextSize"] = 14;
+DELTA["55"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["55"]["AnchorPoint"] = Vector2.new(0.5, 0);
+DELTA["55"]["Size"] = UDim2.new(0.7438986301422119, 0, 0.5, 0);
+DELTA["55"]["Text"] = [[Select Your Option]];
+DELTA["55"]["Name"] = [[Title]];
+DELTA["55"]["BackgroundTransparency"] = 1;
+DELTA["55"]["Position"] = UDim2.new(0.37194931507110596, 0, 0, 0);
