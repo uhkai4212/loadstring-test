@@ -1,0 +1,9 @@
+DELTA["52"] = Instance.new("Frame", DELTA["3b"]);
+DELTA["52"]["ZIndex"] = 100000;
+DELTA["52"]["BackgroundColor3"] = Color3.fromRGB(38, 41, 49);
+DELTA["52"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["52"]["Size"] = UDim2.new(0.43205055594444275, 0, 1.0513142347335815, 0);
+DELTA["52"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["52"]["Name"] = [[Popup]]
+DELTA["52"].Active = true
+DELTA["52"].Visible = false
