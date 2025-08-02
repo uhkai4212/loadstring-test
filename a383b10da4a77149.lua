@@ -1,0 +1,15 @@
+DELTA["4a"] = Instance.new("TextLabel", DELTA["48"]);
+DELTA["4a"]["TextWrapped"] = true;
+DELTA["4a"]["TextScaled"] = true;
+DELTA["4a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4a"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["4a"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["4a"]["TextTransparency"] = 0.30000001192092896;
+DELTA["4a"]["TextSize"] = 14;
+DELTA["4a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["4a"]["AnchorPoint"] = Vector2.new(0, 1);
+DELTA["4a"]["Size"] = UDim2.new(0.6313457489013672, 0, 0.5, 0);
+DELTA["4a"]["Text"] = [[Aimbot, triggerbot, aim assist, wall-check gui]];
+DELTA["4a"]["Name"] = [[Paragraph]];
+DELTA["4a"]["BackgroundTransparency"] = 1;
+DELTA["4a"]["Position"] = UDim2.new(0, 0, 1.0000001192092896, 0);
