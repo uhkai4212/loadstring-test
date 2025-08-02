@@ -1,0 +1,9 @@
+DELTA["44"] = Instance.new("ImageButton", DELTA["43"]);
+DELTA["44"]["Active"] = false;
+DELTA["44"]["BackgroundColor3"] = Color3.fromRGB(26, 27, 36);
+DELTA["44"]["Selectable"] = false;
+DELTA["44"]["Image"] = [[rbxassetid://13365407660]];
+DELTA["44"]["Size"] = UDim2.new(0.313303679227829, 0, 0.31330370903015137, 0);
+DELTA["44"]["Name"] = [[OldThumbnail]];
+DELTA["44"]["Visible"] = false;
+DELTA["44"]["Position"] = UDim2.new(9.43648092999183e-09, 0, 0, 0);
