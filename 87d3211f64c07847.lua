@@ -1,0 +1,12 @@
+DELTA["41"] = Instance.new("ScrollingFrame", DELTA["3b"]);
+DELTA["41"]["CanvasSize"] = UDim2.new(0, 0, 3, 0);
+DELTA["41"]["ScrollBarImageTransparency"] = 1;
+DELTA["41"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["41"]["VerticalScrollBarInset"] = Enum.ScrollBarInset.Always;
+DELTA["41"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["41"]["BackgroundTransparency"] = 1;
+DELTA["41"]["Size"] = UDim2.new(1, 0, 0.8350700736045837, 0);
+DELTA["41"]["Selectable"] = false;
+DELTA["41"]["ScrollBarThickness"] = 0;
+DELTA["41"]["Position"] = UDim2.new(0.5, 0, 1, 0);
+DELTA["41"]["Name"] = [[Holder]];
