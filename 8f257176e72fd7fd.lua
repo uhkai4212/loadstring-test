@@ -1,0 +1,1 @@
+DELTA["19b"] = Instance.new("LocalScript", DELTA["186"]);
