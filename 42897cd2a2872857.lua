@@ -1,0 +1,14 @@
+DELTA["10fa"] = Instance.new("TextLabel", DELTA["10da"]);
+DELTA["10fa"]["TextWrapped"] = true;
+DELTA["10fa"]["ZIndex"] = 999999999;
+DELTA["10fa"]["TextScaled"] = true;
+DELTA["10fa"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["10fa"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["10fa"]["TextSize"] = 14;
+DELTA["10fa"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["10fa"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["10fa"]["Size"] = UDim2.new(0.7953082323074341, 0, 0.44124072790145874, 0);
+DELTA["10fa"]["Text"] = [[DELETE]];
+DELTA["10fa"]["Name"] = [[Title]];
+DELTA["10fa"]["BackgroundTransparency"] = 1;
+DELTA["10fa"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
