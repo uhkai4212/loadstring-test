@@ -1,0 +1,17 @@
+DELTA["40"] = Instance.new("TextBox", DELTA["3c"]);
+DELTA["40"]["Active"] = true;
+DELTA["40"]["TextSize"] = 14;
+DELTA["40"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["40"]["TextWrapped"] = true;
+DELTA["40"]["TextScaled"] = true;
+DELTA["40"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["40"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["40"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["40"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["40"]["BackgroundTransparency"] = 1;
+DELTA["40"]["PlaceholderText"] = [[Search on scriptblox.com...]];
+DELTA["40"]["Size"] = UDim2.new(0.8766564130783081, 0, 0.35361653566360474, 0);
+DELTA["40"]["Selectable"] = false;
+DELTA["40"]["Text"] = [[]];
+DELTA["40"]["Position"] = UDim2.new(0.061162080615758896, 0, 0.49999991059303284, 0);
+DELTA["40"]["Name"] = [[Input]];
