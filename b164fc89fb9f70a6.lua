@@ -1,0 +1,12 @@
+DELTA["49"] = Instance.new("TextLabel", DELTA["48"]);
+DELTA["49"]["TextWrapped"] = true;
+DELTA["49"]["TextScaled"] = true;
+DELTA["49"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["49"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["49"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["49"]["TextSize"] = 14;
+DELTA["49"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["49"]["Size"] = UDim2.new(0.4335988163948059, 0, 0.5, 0);
+DELTA["49"]["Text"] = [[Arsenal 🐰]];
+DELTA["49"]["Name"] = [[Title]];
+DELTA["49"]["BackgroundTransparency"] = 1;
