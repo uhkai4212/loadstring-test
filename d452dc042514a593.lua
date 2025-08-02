@@ -1,0 +1,14 @@
+DELTA["141"] = Instance.new("TextLabel", DELTA["13f"]);
+DELTA["141"]["TextWrapped"] = true;
+DELTA["141"]["TextScaled"] = true;
+DELTA["141"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["141"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["141"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
+DELTA["141"]["TextSize"] = 14;
+DELTA["141"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["141"]["AnchorPoint"] = Vector2.new(0, 0.5);
+DELTA["141"]["Size"] = UDim2.new(0.15939868986606598, 0, 0.31746405363082886, 0);
+DELTA["141"]["Text"] = [[Enter Your Title...]];
+DELTA["141"]["Name"] = [[Title]];
+DELTA["141"]["BackgroundTransparency"] = 1;
+DELTA["141"]["Position"] = UDim2.new(-0.01293666660785675, 0, 0.5000000596046448, 0);
