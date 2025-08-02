@@ -1,0 +1,9 @@
+DELTA["3b"] = Instance.new("Frame", DELTA["1"]);
+DELTA["3b"]["ZIndex"] = 100;
+DELTA["3b"]["BackgroundColor3"] = Color3.fromRGB(255, 0, 0);
+DELTA["3b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["3b"]["BackgroundTransparency"] = 1;
+DELTA["3b"]["Size"] = UDim2.new(0.8483448028564453, 0, 0.8924814462661743, 0);
+DELTA["3b"]["Position"] = UDim2.new(0.47624671459198, 0, 0.5082324147224426, 0);
+DELTA["3b"]["Visible"] = false;
+DELTA["3b"]["Name"] = [[Scripthub]];
