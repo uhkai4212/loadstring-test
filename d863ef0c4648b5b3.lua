@@ -1,0 +1,10 @@
+DELTA["57"] = Instance.new("Frame", DELTA["52"]);
+DELTA["57"]["ZIndex"] = 999999999;
+DELTA["57"]["BorderSizePixel"] = 0;
+DELTA["57"]["BackgroundColor3"] = Color3.fromRGB(22, 22, 30);
+DELTA["57"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["57"]["BackgroundTransparency"] = 1;
+DELTA["57"]["Size"] = UDim2.new(0.8189999461174011, 0, 0.5725698471069336, 0);
+DELTA["57"]["ClipsDescendants"] = true;
+DELTA["57"]["Position"] = UDim2.new(0.5, 0, 0.9148041009902954, 0);
+DELTA["57"]["Name"] = [[Buttons]];
