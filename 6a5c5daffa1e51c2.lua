@@ -1,0 +1,9 @@
+DELTA["51"] = Instance.new("Frame", DELTA["3b"]);
+DELTA["51"]["ZIndex"] = 99999;
+DELTA["51"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
+DELTA["51"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
+DELTA["51"]["BackgroundTransparency"] = 0.5;
+DELTA["51"]["Size"] = UDim2.new(10, 10, 2, 0);
+DELTA["51"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
+DELTA["51"]["Visible"] = false;
+DELTA["51"]["Name"] = [[DarkOverlay]];
