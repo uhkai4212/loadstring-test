@@ -1,0 +1,10 @@
+DELTA["5d"] = Instance.new("ImageButton", DELTA["57"]);
+DELTA["5d"]["Active"] = false;
+DELTA["5d"]["ZIndex"] = 999999999;
+DELTA["5d"]["BackgroundColor3"] = Color3.fromRGB(94, 136, 169);
+DELTA["5d"]["Selectable"] = false;
+DELTA["5d"]["LayoutOrder"] = 1;
+DELTA["5d"]["Size"] = UDim2.new(0.9621250629425049, 0, 0.16304320096969604, 0);
+DELTA["5d"]["Name"] = [[Button2]];
+DELTA["5d"]["Position"] = UDim2.new(0.018937479704618454, 0, 0.3772318959236145, 0);
+DELTA["5d"]["BackgroundTransparency"] = 0.8999999761581421;
