@@ -1,0 +1,16 @@
+DELTA["121"] = Instance.new("TextLabel", DELTA["11d"]);
+DELTA["121"]["TextWrapped"] = true;
+DELTA["121"]["TextScaled"] = true;
+DELTA["121"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["121"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["121"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
+DELTA["121"]["TextSize"] = 14;
+DELTA["121"]["TextColor3"] = Color3.fromRGB(157, 162, 199);
+DELTA["121"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["121"]["Size"] = UDim2.new(0.9109266400337219, 0, 0.46432507038116455, 0);
+DELTA["121"]["Active"] = true;
+DELTA["121"]["Text"] = [[an admin script dedicated to provide the necessities of exploiting]];
+DELTA["121"]["Active"] = false;
+DELTA["121"]["Name"] = [[Description]];
+DELTA["121"]["BackgroundTransparency"] = 1;
+DELTA["121"]["Position"] = UDim2.new(0.5, 0, 0.9209074378013611, 0);
