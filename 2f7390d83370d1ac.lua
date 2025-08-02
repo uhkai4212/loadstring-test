@@ -1,0 +1,15 @@
+DELTA["56"] = Instance.new("TextLabel", DELTA["53"]);
+DELTA["56"]["TextWrapped"] = true;
+DELTA["56"]["ZIndex"] = 999999999;
+DELTA["56"]["TextScaled"] = true;
+DELTA["56"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DELTA["56"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+DELTA["56"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
+DELTA["56"]["TextSize"] = 14;
+DELTA["56"]["TextColor3"] = Color3.fromRGB(161, 167, 182);
+DELTA["56"]["AnchorPoint"] = Vector2.new(0.5, 1);
+DELTA["56"]["Size"] = UDim2.new(0.7438986301422119, 0, 0.3536166250705719, 0);
+DELTA["56"]["Text"] = [[Choose whether to execute, open in a new tab, etc..]];
+DELTA["56"]["Name"] = [[Paragraph]];
+DELTA["56"]["BackgroundTransparency"] = 1;
+DELTA["56"]["Position"] = UDim2.new(0.37194931507110596, 0, 0.8536167144775391, 0);
