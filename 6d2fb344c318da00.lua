@@ -1,0 +1,1 @@
+DELTA["6c"] = Instance.new("UIAspectRatioConstraint", DELTA["6b"]);
